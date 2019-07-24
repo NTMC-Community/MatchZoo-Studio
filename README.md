@@ -8,7 +8,9 @@
 
 The architecture of the system is shown in the Figure. The system consists of two major components, namely the **MatchZoo library** and the **MatchZoo studio**. The library provides a number of text processing units, popular neural text matching models, as well as matching based evaluation and loss functions, for all stages (i.e, data preparation, model construction, and train and test.) of the machine learning based text matching tasks. Moreover, we have also provided the AutoML operators to support automatic data preparation, hyper-parameter tuning, and model selection in the library. The studio provides an interactive interface based on the MatchZoo library. There are three key functions, i.e., **model learning**, **model practicing**, and **model designing**, to ease the process of learning, using and creating neural text matching models. The studio contains a user-friendly GUI which is built on the Web server, and users can interact with the studio through Web browsers.
 
-<img src="./images/architecture.png" width="550">
+<div align='center'>
+    <img src="./images/architecture.png" width="550" alt="architecture" align="center">
+</div>
 
 
 
