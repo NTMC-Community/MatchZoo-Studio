@@ -1,17 +1,9 @@
-.DS_Store
-node_modules/
-/dist/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-/test/unit/coverage/
-/test/e2e/reports/
-selenium-debug.log
-
-# Editor directories and files
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
+*.pyc
+matchzoo_temp_files/data/*
+matchzoo_temp_files/files/*
+matchzoo_temp_files/jupyters/*
+matchzoo_temp_files/logger/*
+matchzoo_temp_files/models/*
+matchzoo_temp_files/preprocessors/*
+matchzoo_versions/MatchZoo/*
+__pycache__/*.pyc
