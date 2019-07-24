@@ -1,6 +1,6 @@
 # MatchZoo-Studio
 
-> MatchZoo studio aims to facilitate the learning, practicing, and designing of neural text matching models with a user-friendly and interactive interface.
+> MatchZoo Studio aims to facilitate the learning, practicing, and designing of neural text matching models with a user-friendly and interactive interface.
 
 
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 
 
-###Configure Jupyter
+### Configure Jupyter
 
 Create a new file `jupyter_notebook_config.py` in the directory `~/.jupyter/` (Note: remember to delete it otherwise it will affect your usage of Jupyter) and copy the code below:
 
